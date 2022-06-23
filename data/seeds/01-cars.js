@@ -10,7 +10,7 @@ const cars = [
   },
 
   {
-    vin: "1111111111",
+    vin: "222222222",
     make: "toyota",
     model: "corolla",
     mileage: 11500,
@@ -18,7 +18,7 @@ const cars = [
   },
 
   {
-    vin: "1111111111",
+    vin: "333333333",
     make: "ford",
     model: "focus",
     mileage: 1500,

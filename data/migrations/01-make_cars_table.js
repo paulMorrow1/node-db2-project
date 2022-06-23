@@ -9,7 +9,7 @@ exports.up = function (knex) {
 
     tbl.string("model", 128).notNullable();
 
-    tbl.numeric("mileage").notNullable();
+    tbl.integer("mileage").notNullable();
 
     tbl.string("title", 128);
 
